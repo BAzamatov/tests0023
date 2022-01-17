@@ -2,3 +2,4 @@ testovie stroki.
 na test1 text
 lala2
 lala3
+lala4
